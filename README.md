@@ -39,5 +39,7 @@ List of commands:
 
 
 When charles execute command is executed the bot this will trigger a chain of events and user can now
-have a fluid "conversation" with the bot as it will ask and answer a few queries please see below sample:
+have a fluid "conversation" with the bot as it will ask and answer a few queries please see below sample. All responses
+user provides are case sensitive, hence the reply must be typed as provided. See below for an example:
+
 <img width="770" alt="screenshot 2019-01-21 10 14 04" src="https://user-images.githubusercontent.com/24193787/51485432-0ccdd400-1d6c-11e9-9fa2-a3d44f0b098e.png">
