@@ -1,0 +1,6 @@
+.env
+Gemfile.lock
+session.chls
+session.chlsj
+CharlesSession
+.DS_Store
