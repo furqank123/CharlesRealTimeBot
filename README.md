@@ -40,4 +40,4 @@ List of commands:
 
 When charles execute command is executed the bot this will trigger a chain of events and user can now
 have a fluid "conversation" with the bot as it will ask and answer a few queries please see below sample:
-![Alt text](https://imgur.com/a/xb1pnFo)
+(Screenshot 2019-01-21 10.14.04.png?raw=true)
