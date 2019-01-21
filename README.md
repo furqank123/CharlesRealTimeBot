@@ -4,7 +4,7 @@
 
 This bot was designed to complete a set of specific routines through Slack. At its core the bot itself interacts with the user(s) 
 whilst listening to anything that may cause a trigger, this is achieved by utilizing WebSocket & Slack Real 
-Time Messaging APIs. These two are bundled in a very neat fashion in a library called [slack-ruby-client](https://github.com/slack-ruby/slack-ruby-client).
+Time Messaging APIs. These two are bundled in a very neat fashion in a library called [slack-ruby-client](https://github.com/slack-ruby/slack-ruby-client) alongside most of the slack APIs.
 This library also handles concurrency internally using lightweight concurrency libraries, async is being used in our project which
 is built on top of Celluloid::IO.
 
