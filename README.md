@@ -10,9 +10,7 @@ is built on top of Celluloid::IO.
 
 ### Purpose
 
-The main job of this robot is to listen to events that concern itself. Once an event concerning itself is triggered, the robot 
-will ask certain queries which will eventually lead to executing a Charles proxy session based on the application and platform demanded
-by the user. Once the execution is complete the user is then presented with a Charles session log in the channel the event was triggered.
+The main job of this robot is listening to events that concern itself. Once an event concerning itself is triggered, the robot will ask certain queries which will eventually lead to executing a Charles proxy session based on the application and platform demanded by the user. Once the execution is complete the user is then presented with a Charles session log in the channel the event was triggered.
  
 ### Execution 
 
@@ -38,8 +36,8 @@ List of commands:
 - charles execute
 
 
-When charles execute command is executed the bot this will trigger a chain of events and user can now
-have a fluid "conversation" with the bot as it will ask and answer a few queries please see below sample. All responses
+When charles execute command is executed this will trigger a chain of events and user can now
+have a fluid "conversation" with the bot as it will ask and answer a few queries. All responses
 user provides are case sensitive, hence the reply must be typed as provided. See below for an example:
 
 <img width="770" alt="screenshot 2019-01-21 10 14 04" src="https://user-images.githubusercontent.com/24193787/51485432-0ccdd400-1d6c-11e9-9fa2-a3d44f0b098e.png">
